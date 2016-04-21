@@ -1,2 +1,2 @@
-# liqungang
-![image](https://github.com/liqungang/liqungang/tree/master/Images/1.gif)  
+# quanquan
+![image](https://github.com/liqungang/liqungang/tree/master/blob/master/Images/1.gif)  
