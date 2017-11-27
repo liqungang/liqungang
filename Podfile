@@ -19,3 +19,5 @@ pod 'JSONModel', '~> 1.1.0'
 pod 'REFrostedViewController', '~> 2.4.7'
 pod 'MWPhotoBrowser'
 pod 'EaseMobSDK'
+
+#jiaxw
